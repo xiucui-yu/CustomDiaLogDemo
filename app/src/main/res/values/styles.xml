@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="full_width_dialog_at_screen_bottom">
+
+        <!-- Dialog的windowFrame框为无 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否显示title -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- DiaLog 动画效果 -->
+        <item name="android:windowAnimationStyle">@style/in_out_through_bottom_dialog_animation</item>
+        <!-- 设置dialog的背景 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景是否模糊显示 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="in_out_through_bottom_dialog_animation">
+
+        <!-- DiaLog 进入的动画 -->
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <!-- DiaLog 出去的动画的动画 -->
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+</resources>

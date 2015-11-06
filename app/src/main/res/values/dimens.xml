@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+  <!-- 自定义对话框 -->
+    <dimen name="common_dialog_content_share_to_text_item_hrz_margin">18dp</dimen>
+    <dimen name="common_dialog_content_share_to_icon_item_gap">17dp</dimen>
+</resources>

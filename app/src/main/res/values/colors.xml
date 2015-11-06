@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_dialog_content_share_to_text_color">#808080</color>
+    
+    <color name="renren_dialog_bg_shadow">#bebec1</color>
+    <color name="renren_dialog_bg_shadow_pressed">#0f5896</color>
+    <color name="renren_dialog_content_bg">#fbfcfd</color>
+    <color name="renren_dialog_content_text">#787878</color>
+    <color name="renren_dialog_content_divider">#787878</color>
+    <color name="renren_dialog_list_item_text">#136ebb</color>
+    <color name="renren_dialog_list_special_item_text">#eb3c33</color>
+    <color name="renren_dialog_list_item_bg">#fbfcfd</color>
+    <color name="renren_dialog_list_item_bg_pressed">#136ebb</color>
+    <color name="renren_dialog_list_item_bg_pressed_special">#eb3c33</color>
+    <color name="renren_dialog_list_divider">#edeef1</color>
+    <color name="renren_dialog_btn_divider">#d4d9e1</color>
+    <color name="renren_dialog_btn_bg">#edeef1</color>
+    <color name="renren_dialog_btn_bg_pressed">#136ebb</color>
+    <color name="renren_dialog_btn_cancel_text">#505050</color>
+    <color name="renren_dialog_btn_ok_text">#136ebb</color>
+    <color name="renren_dialog_btn_text_pressed">#ffffff</color>
+    <color name="vc_0_0_1_interaction_button_text">#FF787878</color>
+</resources>
